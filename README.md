@@ -1,5 +1,5 @@
 # Restaurant_Inspection_MSIS502_Final_Project
-Interest in knowing how NYC restaurant inspection ratings are like? 
+Wondering how NYC restaurant inspection ratings are like? Do ethnic foods have lower ratings?
 
 Quick View:
 - Read Part I for data selection, data summary and data processing decisions
